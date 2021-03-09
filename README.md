@@ -1,6 +1,6 @@
 # Before you read any further
 
-Read this first: https://github.com/MichaelHallik/robocon2021/blob/main/prerequisites/Prerequisites.pptx
+Read this first: https://github.com/MichaelHallik/robocon2021/blob/main/prerequisites/Prerequisites.pptx (after clicking the link, simply click the 'Download' button).
 
 # Installing the tool stack
 
