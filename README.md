@@ -1,3 +1,7 @@
+# Before you read any further
+
+Read this first: https://github.com/MichaelHallik/robocon2021/blob/main/prerequisites/Prerequisites.pptx
+
 # Installing the tool stack
 
 <b>Python (v3.7 or >):</b>
