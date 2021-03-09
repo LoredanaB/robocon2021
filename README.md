@@ -1,6 +1,9 @@
 # Contents of this repo
 
-Presentation, code (examples and exercises), required tools and data, all pertaining to the RoboCon2021 'Advanced RequestsLibrary' workshop.
+- Presentation
+- Code (examples and exercises)
+- Required test tools data
+- Workshop requirements & prerequisites
 
 # URLs - Reference  
 
