@@ -11,15 +11,15 @@
   - Assuming you have Python 3.7 or higher (as required for the workshop), just start a shell/command-line and enter: pip install robotframework-requests==0.7.2  
   
 <b>IDE:</b>  
-  - Use the IDE or editor of your choice (PyCharm, VSC, etc), but please note that all example/demo code will be written in RIDE. I normally use PyCharm, except for workshops. To install RIDE, pleasde follow instructions here: https://github.com/robotframework/RIDE
+  - Use the IDE/editor of your choice (PyCharm, VS Code, etc), but please note that all example/demo code will be shown in RIDE. I normally use PyCharm, except for workshops. However, that really won't have any negative impact. To install RIDE, please follow the instructions here: https://github.com/robotframework/RIDE.
 
-# URLs you need access to during the workshop - Reference  
+# URLs you need to have access to during the workshop - For reference  
 
 <b>Robot Framework - RequestsLibrary:</b>  
   https://github.com/MarketSquare/robotframework-requests  
   https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html  
 
-<b>Robot Framework - Convenience libraries waarvan we gebruik zullen maken:</b>  
+<b>Robot Framework convenience libraries that we will use:</b>  
   https://robotframework.org/robotframework/latest/libraries/BuiltIn.html  
   https://robotframework.org/robotframework/latest/libraries/Collections.html  
   https://robotframework.org/robotframework/latest/libraries/OperatingSystem.html  
@@ -38,7 +38,7 @@
 <b>Python dictionary methods</b>  
   https://www.w3schools.com/python/python_ref_dictionary.asp  
 
-# URLs you need access to during the workshop - Test sites 
+# URLs you need to have access to during the workshop - Test sites 
 
   https://www.belastingdienst.nl  
   https://werken.belastingdienst.nl  
