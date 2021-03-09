@@ -15,11 +15,11 @@
 
 # URLs you need access to during the workshop - Reference  
 
-<b>Robot Framework - RequestsLibrary:</b>  
+<b>Robot Framework - RequestsLibrary:</b> 
   https://github.com/MarketSquare/robotframework-requests  
   https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html  
 
-<b>Robot Framework - Convenience libraries waarvan we gebruik zullen maken:</b>  
+<b>Robot Framework - Convenience libraries waarvan we gebruik zullen maken:</b> 
   https://robotframework.org/robotframework/latest/libraries/BuiltIn.html  
   https://robotframework.org/robotframework/latest/libraries/Collections.html  
   https://robotframework.org/robotframework/latest/libraries/OperatingSystem.html  
@@ -45,10 +45,3 @@
   https://httpbin.org/  
   https://jsonplaceholder.typicode.com/  
   https://jsonplaceholder.typicode.com/guide/  
-
-# Contents of this repo
-
-- Presentation
-- Code (examples and exercises)
-- Required test tools data
-- Workshop requirements & prerequisites
