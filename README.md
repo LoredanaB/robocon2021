@@ -9,10 +9,10 @@ Python dictionary methods
 
 requests - session object:  
   https://requests.readthedocs.io/en/stable/api/#request-sessions  
-  https://www.w3schools.com/python/ref_requests_response.asp  
 
 requests - response object:  
   https://requests.readthedocs.io/en/stable/api/#requests.Response  
+  https://www.w3schools.com/python/ref_requests_response.asp  
 
 requests - cookiejar object:  
   https://requests.readthedocs.io/en/stable/api/#requests.cookies.RequestsCookieJar  
