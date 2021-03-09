@@ -1,4 +1,4 @@
-# 1 - Installing the tool stack
+# Installing the tool stack
 
 <b>Python (v3.7 or >):</b>
   - Download: https://www.python.org/downloads/  
@@ -13,7 +13,7 @@
 <b>IDE:</b>  
   - Use the IDE/editor of your choice (PyCharm, VS Code, etc), but please note that all example/demo code will be shown in RIDE. I normally use PyCharm, except for workshops. However, that really won't have any negative impact. To install RIDE, please follow the instructions here: https://github.com/robotframework/RIDE.
 
-# 2. URLs you need to have access to during the workshop - For reference  
+# URLs you need to have access to during the workshop - For reference  
 
 <b>Robot Framework - RequestsLibrary:</b>  
   https://github.com/MarketSquare/robotframework-requests  
@@ -38,7 +38,7 @@
 <b>Python dictionary methods</b>  
   https://www.w3schools.com/python/python_ref_dictionary.asp  
 
-# 3 - URLs you need to have access to during the workshop - Test sites 
+# URLs you need to have access to during the workshop - Test sites 
 
   https://www.belastingdienst.nl  
   https://werken.belastingdienst.nl  
