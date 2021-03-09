@@ -1,8 +1,8 @@
 # Installing the tool stack
 
-Python (v3.7 or >):
-- Download: https://www.python.org/downloads/  
-- Installation help, see for instance: https://realpython.com/installing-python/  
+<b>Python (v3.7 or >):</b>
+  - Download: https://www.python.org/downloads/  
+  - Installation help, see for instance: https://realpython.com/installing-python/  
 
 <b>Robot Framework (v3.2.2. or >):</b>
   - Follow the simply instructions on: https://github.com/robotframework/robotframework#installation  
