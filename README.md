@@ -1,33 +1,35 @@
-# robocon2021
-Presentation, instructions, demo code and required tools.
+# Contents of this repo
 
-URLs
-Python dictionary methods
-https://www.w3schools.com/python/python_ref_dictionary.asp
+Presentation, code (examples and exercises), required tools and data, all pertaining to the RoboCon2021 'Advanced RequestsLibrary' workshop.
 
-requests - session object:
-https://requests.readthedocs.io/en/stable/api/#request-sessions
-https://www.w3schools.com/python/ref_requests_response.asp
+# URLs  
 
-requests - response object:
-https://requests.readthedocs.io/en/stable/api/#requests.Response
+Python dictionary methods  
+  https://www.w3schools.com/python/python_ref_dictionary.asp  
 
-requests - cookiejar object:
-https://requests.readthedocs.io/en/stable/api/#requests.cookies.RequestsCookieJar
+requests - session object:  
+  https://requests.readthedocs.io/en/stable/api/#request-sessions  
+  https://www.w3schools.com/python/ref_requests_response.asp  
 
-Robot Framework - RequestsLibrary:
-https://github.com/MarketSquare/robotframework-requests
-https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html
+requests - response object:  
+  https://requests.readthedocs.io/en/stable/api/#requests.Response  
 
-Robot Framework - Convenience libraries waarvan we gebruik zullen maken:
-https://robotframework.org/robotframework/latest/libraries/BuiltIn.html
-https://robotframework.org/robotframework/latest/libraries/Collections.html
-https://robotframework.org/robotframework/latest/libraries/OperatingSystem.html
-https://robotframework.org/robotframework/latest/libraries/String.html
+requests - cookiejar object:  
+  https://requests.readthedocs.io/en/stable/api/#requests.cookies.RequestsCookieJar  
 
-Test sites:
-https://www.belastingdienst.nl
-https://werken.belastingdienst.nl
-https://jsonplaceholder.typicode.com/
-https://jsonplaceholder.typicode.com/guide/
-https://httpbin.org/
+Robot Framework - RequestsLibrary:  
+  https://github.com/MarketSquare/robotframework-requests  
+  https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html  
+
+Robot Framework - Convenience libraries waarvan we gebruik zullen maken:  
+  https://robotframework.org/robotframework/latest/libraries/BuiltIn.html  
+  https://robotframework.org/robotframework/latest/libraries/Collections.html  
+  https://robotframework.org/robotframework/latest/libraries/OperatingSystem.html  
+  https://robotframework.org/robotframework/latest/libraries/String.html  
+
+Test sites:  
+  https://www.belastingdienst.nl  
+  https://werken.belastingdienst.nl  
+  https://jsonplaceholder.typicode.com/  
+  https://jsonplaceholder.typicode.com/guide/  
+  https://httpbin.org/  
