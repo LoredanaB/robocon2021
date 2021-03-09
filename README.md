@@ -37,3 +37,7 @@ Python dictionary methods
   https://httpbin.org/  
   https://jsonplaceholder.typicode.com/  
   https://jsonplaceholder.typicode.com/guide/  
+
+# Installaing the tool stack
+
+Please see <a href=https://github.com/MichaelHallik/robocon2021/blob/main/prerequisites/Prerequisites.pptx>/prerequisites/Prerequisites.pptx</a> for the tool/library versions that you need to install!
