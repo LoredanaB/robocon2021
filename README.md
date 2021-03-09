@@ -1,9 +1,19 @@
-# Contents of this repo
+# Installing the tool stack
 
-- Presentation
-- Code (examples and exercises)
-- Required test tools data
-- Workshop requirements & prerequisites
+Please see <a href=https://github.com/MichaelHallik/robocon2021/blob/main/prerequisites/Prerequisites.pptx>/prerequisites/Prerequisites.pptx</a> for the required tool/library versions that you need to install!
+
+Python (v3.7 or >):  
+  - Download: https://www.python.org/downloads/  
+  - Installation help, see for instance: https://realpython.com/installing-python/  
+
+Robot Framework (v3.2.2. or >):  
+  - Follow the simply instructions on: https://github.com/robotframework/robotframework#installation  
+
+RequestsLibrary (v0.7.2 and no other):  
+  - Assuming you have Python 3.7 or higher (as required for the workshop), just start a shell/command-line and enter: pip install robotframework-requests==0.7.2  
+  
+IDE:  
+  - Use the IDE or editor of your choice (PyCharm, VSC, etc), but please note that all example/demo code will be written in RIDE. I normally use PyCharm, except for workshops. To install RIDE, pleasde follow instructions here: https://github.com/robotframework/RIDE
 
 # URLs - Reference  
 
@@ -38,19 +48,9 @@ Python dictionary methods
   https://jsonplaceholder.typicode.com/  
   https://jsonplaceholder.typicode.com/guide/  
 
-# Installaing the tool stack
+# Contents of this repo
 
-Please see <a href=https://github.com/MichaelHallik/robocon2021/blob/main/prerequisites/Prerequisites.pptx>/prerequisites/Prerequisites.pptx</a> for the required tool/library versions that you need to install!
-
-Python (v3.7 or >):  
-  Download: https://www.python.org/downloads/  
-  Installation help, see for instance: https://realpython.com/installing-python/  
-
-Robot Framework (v3.2.2. or >):  
-  Follow the simply instructions on: https://github.com/robotframework/robotframework#installation  
-
-RequestsLibrary (v0.7.2 and no other):  
-  Assuming you have Python 3.7 or higher (as required for the workshop), just start a shell/command-line and enter: pip install robotframework-requests==0.7.2  
-  
-IDE:  
-  Use the IDE or editor of your choice (PyCharm, VSC, etc), but please note that all example/demo code will be written in RIDE. I normally use PyCharm, except for workshops. To install RIDE, pleasde follow instructions here: https://github.com/robotframework/RIDE
+- Presentation
+- Code (examples and exercises)
+- Required test tools data
+- Workshop requirements & prerequisites
