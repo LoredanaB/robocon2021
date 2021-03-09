@@ -13,7 +13,7 @@
 <b>IDE:</b>  
   - Use the IDE/editor of your choice (PyCharm, VS Code, etc), but please note that all example/demo code will be shown in RIDE. I normally use PyCharm, except for workshops. However, that really won't have any negative impact. To install RIDE, please follow the instructions here: https://github.com/robotframework/RIDE.
 
-# URLs you need to have access to during the workshop - For reference  
+# URLs list (for convenient use during the workshop):  
 
 <b>Robot Framework - RequestsLibrary:</b>  
   https://github.com/MarketSquare/robotframework-requests  
@@ -35,10 +35,10 @@
 <b>requests - cookiejar object:</b>  
   https://requests.readthedocs.io/en/master/api/#requests.cookies.RequestsCookieJar  
 
-<b>Python dictionary methods</b>  
+<b>Python dictionary methods:</b>  
   https://www.w3schools.com/python/python_ref_dictionary.asp  
 
-# URLs you need to have access to during the workshop - Test sites 
+<b>Test sites:</b> 
 
   https://www.belastingdienst.nl  
   https://werken.belastingdienst.nl  
