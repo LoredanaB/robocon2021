@@ -19,7 +19,7 @@
   https://github.com/MarketSquare/robotframework-requests  
   https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html  
 
-<b>Robot Framework convenience libraries that we will use:</b>  
+<b>Robot Framework  - Convenience libraries that we will use:</b>  
   https://robotframework.org/robotframework/latest/libraries/BuiltIn.html  
   https://robotframework.org/robotframework/latest/libraries/Collections.html  
   https://robotframework.org/robotframework/latest/libraries/OperatingSystem.html  
