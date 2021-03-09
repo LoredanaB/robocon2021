@@ -1,6 +1,6 @@
 # Installing the tool stack
 
-<b>Python (v3.7 or >):</b>
+Python (v3.7 or >):
 - Download: https://www.python.org/downloads/  
 - Installation help, see for instance: https://realpython.com/installing-python/  
 
