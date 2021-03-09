@@ -1,7 +1,5 @@
 # Installing the tool stack
 
-Please see <a href=https://github.com/MichaelHallik/robocon2021/blob/main/prerequisites/Prerequisites.pptx>/prerequisites/Prerequisites.pptx</a> for the required tool/library versions that you need to install!
-
 Python (v3.7 or >):  
   - Download: https://www.python.org/downloads/  
   - Installation help, see for instance: https://realpython.com/installing-python/  
@@ -15,7 +13,7 @@ RequestsLibrary (v0.7.2 and no other):
 IDE:  
   - Use the IDE or editor of your choice (PyCharm, VSC, etc), but please note that all example/demo code will be written in RIDE. I normally use PyCharm, except for workshops. To install RIDE, pleasde follow instructions here: https://github.com/robotframework/RIDE
 
-# URLs - Reference  
+# URLs you need access to during the workshop - Reference  
 
 Robot Framework - RequestsLibrary:  
   https://github.com/MarketSquare/robotframework-requests  
@@ -40,7 +38,7 @@ requests - cookiejar object:
 Python dictionary methods  
   https://www.w3schools.com/python/python_ref_dictionary.asp  
 
-# URLs - Test sites 
+# URLs you need access to during the workshop - Test sites 
 
   https://www.belastingdienst.nl  
   https://werken.belastingdienst.nl  
