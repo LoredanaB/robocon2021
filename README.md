@@ -18,14 +18,14 @@ Robot Framework - Convenience libraries waarvan we gebruik zullen maken:
   https://robotframework.org/robotframework/latest/libraries/String.html  
 
 requests - session object:  
-  https://requests.readthedocs.io/en/stable/api/#request-sessions  
+  https://requests.readthedocs.io/en/master/api/#request-sessions  
 
 requests - response object:  
-  https://requests.readthedocs.io/en/stable/api/#requests.Response  
+  https://requests.readthedocs.io/en/master/api/#requests.Response  
   https://www.w3schools.com/python/ref_requests_response.asp  
 
 requests - cookiejar object:  
-  https://requests.readthedocs.io/en/stable/api/#requests.cookies.RequestsCookieJar  
+  https://requests.readthedocs.io/en/master/api/#requests.cookies.RequestsCookieJar  
 
 Python dictionary methods  
   https://www.w3schools.com/python/python_ref_dictionary.asp  
