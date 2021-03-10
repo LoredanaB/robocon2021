@@ -2,7 +2,7 @@ Json-server is a Node.js module (i.e. a JavaScript library), with which we can e
 
 To be able to fall back to a local deployment of our json-server-powered fake REST-api, we need to follow the below steps.
 
-(commands need to be executed in/by the shell/CLI of your OS):
+(Commands need to be executed in/by the shell/CLI of your OS.)
 
 1. Install Node.js via: https://nodejs.org/en/download/ (see installation instructions there).
 2. Use the Node.js package manager (NPM) to install the json-server package: npm install -g json-server
