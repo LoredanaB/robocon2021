@@ -2,6 +2,6 @@
 
 ECHO Starting JSON Server, using data from: http://jsonplaceholder.typicode.com/db
 
-json-server http://jsonplaceholder.typicode.com/db --port 3001
+json-server http://jsonplaceholder.typicode.com/db --port 3002
 
 EXIT

@@ -8,6 +8,6 @@ ECHO Done!
 
 ECHO Starting JSON Server ...
 
-json-server --watch "%~dp0\..\Db\db.json"
+json-server --watch "%~dp0\..\Db\db.json" --port 3002
 
 EXIT
