@@ -15,9 +15,9 @@ To be able to fall back to a local deployment of the jsonplaceholder dummy api, 
 5. Assuming you are using the standard port, browse to http://localhost:3000 to see whether all resources have been made available.
 6. If so, you have the jsonplaceholder API at your disposal, but locally.
 
-# This repository:
+# This folder:
 
-But what if the online db is unavailable? This repo contains a few batch files and a copy of the jsonplaceholder dabatase. Assuming you have executed steps 1-3, you can also follow these steps instead of the above steps 4-6:
+But what if the online db is unavailable? This folder contains a few batch files and a copy of the jsonplaceholder dabatase. Assuming you have executed steps 1-3, you can also follow these steps instead of the above steps 4-6:
 
 - Download this repo from GitHub.
 - Unzip the downloaded repo.
