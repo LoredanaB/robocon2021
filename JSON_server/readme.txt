@@ -2,9 +2,9 @@
 
 Json-server is a node.js module (i.e. a JavaScript library), with which we can deploy and expose a fake REST api for test purposes.
 
-Jsonplaceholder is an online deployment of a such a fake REST-api, running on json-server.
+Jsonplaceholder (http://jsonplaceholder.typicode.com/) is an online deployment of a such a fake REST-api, running on json-server.
 
-To be able to fall back to a local deployment of the jsonplaceholder dummy api, we need to follow these steps (commands need to be executed in the shell/CLI of your OS):
+To be able to fall back to a *local* deployment of the jsonplaceholder dummy api, we need to follow these steps (commands need to be executed in the shell/CLI of your OS):
 
 1. Install Node.js via: https://nodejs.org/en/download/ (see installation instructions there).
 2. Use the Node.js package manager (NPM) to install the json-server package: npm install -g json-server
